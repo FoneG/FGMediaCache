@@ -1,0 +1,16 @@
+PODS:
+  - FGMediaCache (0.1.0)
+
+DEPENDENCIES:
+  - FGMediaCache (from `../`)
+
+EXTERNAL SOURCES:
+  FGMediaCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FGMediaCache: 3d429b810a3fd9b1d42ffc64c33668c03491f69b
+
+PODFILE CHECKSUM: 6e961035b91360d8243dcaa313b7b5821d9a5137
+
+COCOAPODS: 1.9.3

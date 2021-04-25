@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FGMediaCache_Example' do
+  pod 'FGMediaCache', :path => '../'
+
+  target 'FGMediaCache_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
